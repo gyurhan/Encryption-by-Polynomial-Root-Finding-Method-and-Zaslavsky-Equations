@@ -6,4 +6,4 @@
  The scripts are based on the technique presented in the submited paper:
  "Secure Text Encryption Using Polynomial Root Finding Method and Decimated Output of Zaslavsky Equations"
 
- 
+ It is illustrated encryption/decription process on the text "Shumen University". 
